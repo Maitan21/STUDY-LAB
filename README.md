@@ -13,10 +13,10 @@ Now Developing....
 | :----------: | :-----------------------------: |
 |    Spring    |    Spring Boot 2.3.4    |
 |      OS      |            Mac OS X / Windows 10             |
-|   개발 툴    | Intellij IDEA Ultimate 2020. 02 |
+|   IDE    | Intellij IDEA Ultimate 2020. 02 |
 |     JDK      |             JDK 13              |
-| 데이터베이스 |               AWS RDS (MySQL 8.0.20)                |
-|   빌드 툴    |          Gradle           |
+| Database |               AWS RDS (MySQL 8.0.20)                |
+|   Build    |          Gradle           |
 
 ## Dependency
 - Spring Boot
