@@ -15,7 +15,7 @@ Now Developing....
 |      OS      |            Mac OS X / Windows 10             |
 |   IDE    | Intellij IDEA Ultimate 2020. 02 |
 |     JDK      |             JDK 13              |
-| Database |               AWS RDS (MySQL 8.0.20)                |
+| Database |               MySQL 8.0.20            |
 |   Build    |          Gradle           |
 
 ## Dependency
@@ -30,6 +30,5 @@ Now Developing....
 - Java Mail Sender
 
 ## Contributor
-- KungPook National University
 - YoonSang Cho (Emong) 
 - Inflearn (백기선)
